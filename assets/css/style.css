@@ -1,4 +1,10 @@
 
+.name{
+  
+  color: red;
+text-shadow:0 0 10px rgb(179, 48, 48),0 0 20px rgb(224, 248, 3),0 0 40px #fff,0 0 80px #fff;
+}
+
 body {
   font-family: "Open Sans", sans-serif;
   background-color: #040404;
