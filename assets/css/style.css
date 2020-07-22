@@ -1,8 +1,19 @@
+.glow {
+  font-size: 45px;
+  color: rgb(237, 250, 0);
+  text-align: center;
+  -webkit-animation: glow 1s ease-in-out infinite alternate;
+  -moz-animation: glow 1s ease-in-out infinite alternate;
+  animation: glow 1s ease-in-out infinite alternate;
+}
 
-.name{
-  
-  color: red;
-text-shadow:0 0 10px rgb(179, 48, 48),0 0 20px rgb(224, 248, 3),0 0 40px #fff,0 0 80px #fff;
+@-webkit-keyframes glow {
+  from {
+    text-shadow: 0 0 10px rgb(248, 5, 155), 0 0 20px rgb(240, 6, 111), 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60068;
+  }
+  to {
+    text-shadow: 0 0 20px rgb(34, 5, 252), 0 0 30px #1f06dc, 0 0 40px #1506e7, 0 0 50px #072ad8, 0 0 60px #1607e2, 0 0 70px #071ae9, 0 0 80px #0505df;
+  }
 }
 
 body {
