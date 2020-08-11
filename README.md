@@ -1,4 +1,5 @@
 ### Hi there 👋
+![AppVeyor](https://img.shields.io/appveyor/build/Mugunthanraju/Mugunthanraju?color=Green&label=LOL&logo=Mugunthan&logoColor=Blue&style=for-the-badge)
 
 <!--
 **Mugunthanraju/Mugunthanraju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
