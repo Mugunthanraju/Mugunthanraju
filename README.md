@@ -17,7 +17,9 @@
 <p><a href="https://www.linkedin.com/in/mugunthanraju29""><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />        </a><br><a href="https://twitter.com/MUGUNTHANRAJU"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />          </a><br><a href="https://github.com/Mugunthanraju"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />       </a><br><a href="https://www.instagram.com/mugunthan_raju/"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a></p>
 
 <hr></hr>
-<img width="550px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mugunthanraju&hide=html&layout=compact" />
+<img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=Mugunthanraju&show_icons=true&hide_border=true&count_private=true&layout=compact" />
 <br></br>
 <hr></hr>
-<img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=Mugunthanraju&show_icons=true&hide_border=true&count_private=true&layout=compact" />
+<p><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mugunthanraju&hide=html&layout=compact" /></p>
+
+
