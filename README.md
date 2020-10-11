@@ -19,4 +19,5 @@
 <hr></hr>
 <img width="550px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mugunthanraju&hide=html&layout=compact" />
 <br></br>
+<hr></hr>
 <img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=Mugunthanraju&show_icons=true&hide_border=true&count_private=true&layout=compact" />
