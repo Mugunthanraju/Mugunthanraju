@@ -9,7 +9,8 @@
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img height="32" width="32" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQtiZvvRfp_ccl8ME7YBeDXgAb3xMOZQdtvZQ&usqp=CAU" />
 
-<a href="https://profile-counter.glitch.me/Mugunthanraju/count.svg"><p align="left"> # Visitors<br> <img src="https://profile-counter.glitch.me/Mugunthanraju/count.svg" /></a>
+### Vistors
+<a href="https://profile-counter.glitch.me/Mugunthanraju/count.svg"><p align="left"> # Count : <br> <img src="https://profile-counter.glitch.me/Mugunthanraju/count.svg" /></a>
 
 
 <h3>Where to find me</h3>
