@@ -16,7 +16,7 @@
 
 
 <h3>Where to find me</h3>
-<p style="background-color:white;"><a href="https://www.linkedin.com/in/mugunthanraju/ target="_blank""><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />        </a>&nbsp;<a href="https://twitter.com/MUGUNTHANRAJU target="_blank""><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />          </a>&nbsp;<a href="https://github.com/Mugunthanraju target="_blank""><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />       </a>&nbsp;<a href="https://www.instagram.com/mugunthan_raju/ target="_blank""><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a></p>
+<p style="background-color:white;"><a href="https://www.linkedin.com/in/mugunthanraju/ target="_blank""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />        </a>&nbsp;<a href="https://twitter.com/MUGUNTHANRAJU target="_blank""><img  src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />          </a>&nbsp;<a href="https://github.com/Mugunthanraju target="_blank""><img  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />       </a>&nbsp;<a href="https://www.instagram.com/mugunthan_raju/ target="_blank""><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a></p>
 
 <hr></hr>
 <img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=Mugunthanraju&show_icons=true&hide_border=true&count_private=true&layout=compact" />
