@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="30"/> Nice to see you!</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="30"/> Nice to see you!&nbsp;<img alt="GitHub followers" src="https://img.shields.io/github/followers/Mugunthanraju?label=Follow&style=social"></h1>
 <div><img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/><img src="https://emojis.slackmojis.com/emojis/images/1597609857/10074/github_parrot.gif?1597609857" width="30"/></div>
 
 
