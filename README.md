@@ -2,7 +2,7 @@
 <div><img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/><img src="https://emojis.slackmojis.com/emojis/images/1597609857/10074/github_parrot.gif?1597609857" width="30"/></div>
 
 
-<p>Welcome to my page! </br> I'm <b>Mugunthan Raju</b>, Computer Science Engineering Student from Chennai, -<img src="https://github.com/Mugunthanraju/Mugunthanraju/blob/master/india.png" width="13"/>-<b> India</b></p>
+<p>Welcome to my page! </br> I'm <b>Mugunthan Raju</b>, Software Development Engineer from <b>India</b>(<img src="https://github.com/Mugunthanraju/Mugunthanraju/blob/master/india.png" width="13"/>)</p>
 
 <!-- 
 ### Familiar With :
